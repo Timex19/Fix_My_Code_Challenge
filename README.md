@@ -6,4 +6,8 @@ Project challenge done during **Full Stack Software Engineering studies** at **A
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-fizzbuzz.py` | Solving the `FizzBuzz` file using python |# Fix_My_Code_Challenge
+| `0-fizzbuzz.py` | Solving the `FizzBuzz` file using python |
+| `1-print_square.js` | printing a square in `Javascript` |
+| `2-sort.rb` | sorting arguments in `Ruby` |
+| `3-user.py` | find and fix the implementation of a User class in `Python` |
+| `4-delete_dnodein` | find the implementation of a Double linked list in `C` |
